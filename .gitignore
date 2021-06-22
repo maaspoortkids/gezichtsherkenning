@@ -1,0 +1,21 @@
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Python
+_env/
+*.pyc
+
+# IntelliJ IDEA IDE
+.idea/
+*.iml
+
+# Eclipse / Visual Studio Code
+.settings/
+.project
+.classpath
+.factorypath
+bin/
+
+
+
